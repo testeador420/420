@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "John1",
+    "lastName": "Doe",
+    "email": "john@gmail.com",
+    "gender": "male",
+    "picture": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "firstName": "John2",
+    "lastName": "Doe",
+    "email": "jane@gmail.com",
+    "gender": "female",
+    "picture": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "firstName": "John3",
+    "lastName": "Doe",
+    "email": "jane@gmail.com",
+    "gender": "female",
+    "picture": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "firstName": "John4",
+    "lastName": "Doe",
+    "email": "jane@gmail.com",
+    "gender": "female",
+    "picture": "https://picsum.photos/200/300/?random"
+  },
+  {
+    "firstName": "John5",
+    "lastName": "Doe",
+    "email": "jane@gmail.com",
+    "gender": "female",
+    "picture": "https://picsum.photos/200/300/?random"
+  }
+]
